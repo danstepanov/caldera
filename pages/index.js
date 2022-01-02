@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router'
 
 const locations = [
-  'airfield', 'beachhead', 'docks', 'lagoon', 'mines', 'oil plant', 'peak', 'power plant', 'resort', 'runway', 'sub pen', 'tiki huts', 'village'
+  'airfield', 'beach head', 'docks', 'lagoon', 'mines', 'oil plant', 'peak', 'power plant', 'resort', 'runway', 'sub pen', 'tiki huts', 'village'
 ]
 
 export default function Home() {
